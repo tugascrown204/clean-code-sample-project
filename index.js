@@ -3,7 +3,7 @@ const app = express();
 const PORT = 3000;
 
 app.get('/', (req, res) => {
-    res.send('Welcome to our Clean Code Sample Project! We hope you enjoy your stay!');
+    res.send('Welcome to our Clean Code Sample Project! We are thrilled to have you here!');
 });
 
 app.listen(PORT, () => {
