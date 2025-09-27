@@ -8,6 +8,6 @@ describe('GET /', () => {
             .get('/')
             .expect(200)
             .expect('Content-Type', /text/) 
-            .expect('Welcome to the Clean Code Sample Project!', done);
+            .expect('Welcome to the Clean Code Project!', done);
     });
 });
