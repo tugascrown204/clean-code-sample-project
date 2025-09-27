@@ -1,7 +1,7 @@
 {
   "name": "clean-code-sample-project",
   "version": "1.0.0",
-  "description": "A sample project demonstrating clean code principles.",
+  "description": "A sample project demonstrating clean code principles and best practices for software development.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
